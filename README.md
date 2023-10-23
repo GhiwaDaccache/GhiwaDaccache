@@ -2,9 +2,11 @@
 
 **`Foundation of Computer Science student`**
 ---
+
 ### 👷🏻‍♀️ A little about me
 I'm a civil engineering graduate who decided to delve deeper into the tech world. Having previously worked as a project manager and team leader, looking forward to combining all those experiences to see what will come out. 
 ---
+
 ### 📚 Languages I'm currently learning
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
