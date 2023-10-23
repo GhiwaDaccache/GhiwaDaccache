@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello I'm Ghiwa!; and this is my portfolio)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D6D7D8&center=true&random=false&width=435&lines=Hello+I'm+Ghiwa!;And+this+is+my+portfolio.)](https://git.io/typing-svg)
 ### Hi, I'm Ghiwa!
 
 <!--
