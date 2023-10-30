@@ -3,7 +3,7 @@
 **`Foundation of Computer Science student`**
 
 ### 👷🏻‍♀️ A little about me
-I'm a civil engineering graduate who decided to delve deeper into the tech world. Having previously worked as a project manager and team leader, looking forward to combining all those experiences to see what will come out. 
+I'm a Civil Engineering graduate who decided to delve deeper into the tech world. Having previously worked as a Project Manager and Team Leader, looking forward to combining all those experiences to see what will come out. 
 
 ---
 
