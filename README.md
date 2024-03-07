@@ -9,5 +9,5 @@ After graduating with a Civil Engineering degree, I decided to delve deeper into
 
 ### 📚 Languages I'm currently learning
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg](https://cdn-icons-png.flaticon.com/512/732/732212.png)https://cdn-icons-png.flaticon.com/512/732/732212.png" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
 
