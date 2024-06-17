@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D6D7D8&center=false&vCenter=false&random=false&width=435&lines=Hello%2C+I'm+Ghiwa+Daccache!;And+this+is+my+GitHub.)](https://git.io/typing-svg)
 
-**`Foundation of Computer Science student`**
+**`Full Stack Developer`**
 
 ### 👷🏻‍♀️ A little about me
 After graduating with a Civil Engineering degree, I decided to delve deeper into the tech world. Having previously worked as a Project Manager and Team Leader, I'm looking forward to combining all those experiences to see what will come out. 
