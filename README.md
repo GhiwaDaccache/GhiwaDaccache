@@ -7,7 +7,7 @@ After graduating with a Civil Engineering degree, I decided to delve deeper into
 
 ---
 
-### 📚 Languages I'm currently learning
+### 📚 Languages
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" />
